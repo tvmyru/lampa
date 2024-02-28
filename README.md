@@ -1,5 +1,5 @@
 # lampa
-
+pirat.js
 https://lampaplugins.github.io/store/store.js
 
 
